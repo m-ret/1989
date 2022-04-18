@@ -1,0 +1,83 @@
+{
+  "about": {
+    "name": "Marcelo Retana",
+    "from": "Peninsula de Osa, Costa Rica",
+    "title": "About me",
+    "extra": "And basically, I am a React evangelist.",
+    "personal": "I was born in 1989 in the south pacific of Costa Rica, in a small town named Puerto Jimenez . I like to play the guitar, I like taking pictures and I love reading. I listen to a lot of podcasts.",
+    "professional": "I am a Software Developer with 8 years of experience. I like JavaScript, I am a fullstack developer with very strong communication skills, I am dedicated and focused on solving complex software challenges. I use the modern way of coding; HTML5 and CSS3 are standard, taking into account the cross-browser compatibility. I have been working with Agile methodologies using Scrum. I build powerful, consistent, user-friendly, accessible, internationalized, and configurable components. I have worked for important/big companies like Bank of America, IBM, Universal Music, BMW, Mercedes Benz, Pfizer and also for very small startups where we are 3 or 4 devs. My experience is merely based on the Javascript/ECMAScript ecosystem; ES6, TypeScript, React, React Native, Redux, Nodejs, Gatsbyjs and GraphQL."
+  },
+  "experience": {
+    "title": "Relevant Experience",
+    "subtitle": "I am currently working as a freelancer/contractor.",
+    "jobs": [
+      {
+        "company": "Provectus",
+        "details": "",
+        "url": "https://provectus.com/",
+        "date": "",
+        "description": [
+          "At Provectus, we are obsessed with technologies that impact the future of the whole of humanity. Just imagine: AI for curing eye diseases, ML for making factories safe for workers, preventing pandemic spreading etc. It's not about the future, it's about the products we already develop with #ProvectusTeam. We have passion for making products using AI/ML technologies, cloud services, and data engineering. We value a friendly corporate environment, and almost a family-driven approach to every employee.",
+          "Tech stack/requirements:",
+          "Solid knowledge of JavaScript (ES5, ES6), TypeScript. Experience working with React + Redux + Styled Components stack. Experience in Unit tests writing using Jest, RTL, Enzyme and other testing tools. Full application lifecycle experience. Upper Intermediate English level both for verbal and written communication. Good communication and collaboration skills. Patterns/Architectures understanding. Experience with HTTP API. HTML, CSS, SASS/LESS. GIT. Docker. Swagger. Responsibilities: Write well designed, testable, efficient code by using best software development practices. Work closely, collaboratively and creatively with product owners to build a user experience to support the business users' needs. Work well in a team environment of 4 - 5 developers, but taking individual ownership of deliverables and ensuring quality through comprehensive unit tests. Code optimization and performance with best practices in Javascript. Create user interface by using standard HTML/CSS practices. Gather and refine specifications and requirements based on technical needs. Ensure cross browser capability of code and HTML markup. Create and maintain software documentation. Stay tuned with the recent Web technologies."
+        ]
+      },
+      {
+        "company": "Universal Music Group",
+        "details": "",
+        "url": "https://www.universalmusic.com/",
+        "date": "",
+        "description": [
+          "I am in charge of the development of UI features, mostly frontend development with the whole React ecosystem. I managed a team of 11 developers to develop a whole UI Library based on Bootstrap and React using Storybook for component isolation and testing purposes. Able to work on different projects where we used a very wide range of techs; JavaScript/ES6, TypeScript, Gatsby, React, React Native, Redux, Node, ElasticSearch, PHP, Drupal, Azure, AWS and so on."
+        ]
+      },
+      {
+        "company": "Softon Digital",
+        "details": "",
+        "url": "https://www.softonitg.com",
+        "date": "",
+        "description": [
+          "Softon Digital have been providing custom web development services for American companies since 2007, having experience in the hospitality, healthcare, transportation, automobile, government and many more verticals. At Softon Digital, HTML5 and CSS3 are part of our daily coding activities. While working on a project, using different technologies, I was constantly experimenting with new frameworks and libraries to improve website usability. I worked with friendly code that can support the vast variety of web and mobile browsers. I worked clean and efficiently to meet industry standards, to provide the best code and end-product possible."
+        ]
+      },
+      {
+        "company": "IBM",
+        "details": "",
+        "url": "https://www.ibm.com",
+        "date": "",
+        "description": [
+          "My responsibilities at IBM:",
+          "Implement user requirements according to the technology stack, coding standards and styles the team defined. Work with the Business Analysts to understand new requirements and Client needs. Build and maintain a business process knowledge to have a good understanding of what the team supports and what are the needs they need to fulfill. Help to build and maintain change management and release management process for the new tool. Follow Agile IT development principles. Share knowledge and expertise with others. Keep this technical skillset current and up to date. Have a proactive attitude for problem solving, creating solutions and thinking out of the box. Conduct appropriate unit and module testing.",
+          "Required Professional And Technical Expertise for this job:",
+          "Fluent English language skills. I am required to build and maintain technical skills such as: Strong JavaScript skillset (Node.js, React, TypeScript) Web development: HTML, CSS, Bootstrap, Carbon Design, RESTful APIs, microservices, containerization JSON, XML/XSLT, SQL, NoSQL Unit, functional and integration testing."
+        ]
+      },
+      {
+        "company": "SixFifty",
+        "details": "Small startup",
+        "url": "https://www.sixfifty.com",
+        "date": "",
+        "description": [
+          "The best legal documents, at your fingertips. We work with the law firm Wilson Sonsini to teach a computer to write legal documents like a lawyer. Our document automation system eliminates the cost and hassle of creating the policies, contracts, and disclosures you need.",
+          "Job functions:",
+          "I am in charge of the development of UI features. I work along Backend Devs, DevOps, Project Management, Marketing and Design teams and some other Frontend Devs. Our tech stack is very wide depending on the portion of the services we are working on.",
+          "Project Tech Stack:",
+          "JavaScript/ES6, TypeScript, Prisma, GraphQL, React, Redux Jest, AWS."
+        ]
+      },
+      {
+        "company": "Prodigious",
+        "details": "",
+        "url": "https://www.prodigious.com",
+        "date": "",
+        "description": [
+          "Responsible for designing and writing code and providing support to web applications. Able to work independently, assuming ownership for the design, interface and programming of simple and complex web sites.",
+          "Requirements for this role:",
+          "Advanced-level knowledge of Front-End technologies. Knowledge of design patterns. Knowledge of pre-processed CSS styling (SASS, LESS). Fluency with data transfer formats and protocols popular in web applications. Capable of writing code compliant with modern accessibility and SEO guidelines and best practices. Capable of working with version control systems. Capable of building proof of concept prototypes. Capable of integrate a web solution based on a Content Management System. Capable of troubleshooting, debugging and doing root cause analysis of web applications issues. Capable of consuming, parse and translate SOAP or REST web services.",
+          "Responsibilities:",
+          "Developing web applications that follow the latest web standards and conforms with leading-edge front-end technologies. Works closely with Creative, Business, Technology and QA teams to ensure the technology will be functional and meet performance targets on all web platforms (mobile, desktop) Owns the development of web applications and ensures they follow the overall technical architecture and design established by the technical lead Implements user and business requirements which are composed of multiple development activities. Maintains up-to-date and complete documentation on projects as dictated by the capability’s guidelines and best practices. Debugs or troubleshoots complex issues in existing web applications. Proactively provide feedback on policies and procedures when an opportunity for improvement exists."
+        ]
+      }
+    ]
+  }
+}
